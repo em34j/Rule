@@ -5,7 +5,6 @@
 DOMAIN-SUFFIX,itread01.com, 🍃 Proxy
 DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, 🍃 Proxy
 DOMAIN-SUFFIX,sspanel.org, 🇹🇼 Taiwan 05 | x3 | VIP1
-DOMAIN-SUFFIX,dcard.tw, 🇹🇼 Taiwan 05 | x3 | VIP1
 DOMAIN-SUFFIX,iphonenews.cc, 🍃 Proxy
 DOMAIN-SUFFIX,bahamut.com.tw, 🍃 Proxy
 DOMAIN-SUFFIX,ecimg.tw, 🍃 Proxy
@@ -27,9 +26,6 @@ DOMAIN-SUFFIX,paic.com.cn, DIRECT
 DOMAIN-SUFFIX,dingww.com, 🍃 Proxy, force-remote-dns
 DOMAIN-SUFFIX,dingfast.com, DIRECT
 DOMAIN-SUFFIX,qiang.today, DIRECT
-DOMAIN,api-h2.tiktokv.com, 🍃 Proxy
-DOMAIN,api2-16-h2.musical.ly, 🍃 Proxy
-DOMAIN,api2-19-h2.musical.ly, 🍃 Proxy
 DOMAIN-SUFFIX,nexon.com, 🍃 Proxy
 DOMAIN-SUFFIX,garenanow.com, 🍃 Proxy
 AND, ((DOMAIN, raw.githubusercontent.com), (USER-AGENT, Surge*)), DIRECT, notification-text=“规则集更新”
