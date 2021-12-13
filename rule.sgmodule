@@ -2,6 +2,8 @@
 #!desc=自定義規則
 
 [Rule]
+DOMAIN-SUFFIX,cmoney.tw, 🇺🇸 United States 01
+DOMAIN-SUFFIX,dcard.tw, 🇺🇸 United States 01
 DOMAIN-SUFFIX,itread01.com, Proxy
 DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxy
 DOMAIN-SUFFIX,sspanel.host, 🇺🇸 United States 01
