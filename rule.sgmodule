@@ -2,16 +2,16 @@
 #!desc=自定義規則
 
 [Rule]
-DOMAIN-SUFFIX,itread01.com, 🍃 Proxy
-DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, 🍃 Proxy
-DOMAIN-SUFFIX,sspanel.org, 🇹🇼 Taiwan 05 | x3 | VIP1
-DOMAIN-SUFFIX,iphonenews.cc, 🍃 Proxy
-DOMAIN-SUFFIX,bahamut.com.tw, 🍃 Proxy
-DOMAIN-SUFFIX,ecimg.tw, 🍃 Proxy
-DOMAIN-SUFFIX,pchome.com.tw, 🍃 Proxy
-DOMAIN-SUFFIX,doub.io, 🍃 Proxy
-DOMAIN-SUFFIX,airspace.com.tw, 🍃 Proxy
-DOMAIN-SUFFIX,kuaichedao.co, 🍃 Proxy
+DOMAIN-SUFFIX,itread01.com, Proxy
+DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxy
+DOMAIN-SUFFIX,sspanel.host, 🇺🇸 United States 01
+DOMAIN-SUFFIX,iphonenews.cc, Proxy
+DOMAIN-SUFFIX,bahamut.com.tw, Proxy
+DOMAIN-SUFFIX,ecimg.tw, Proxy
+DOMAIN-SUFFIX,pchome.com.tw, Proxy
+DOMAIN-SUFFIX,doub.io, Proxy
+DOMAIN-SUFFIX,airspace.com.tw, Proxy
+DOMAIN-SUFFIX,kuaichedao.co, Proxy
 DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
 DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
 DOMAIN-SUFFIX,hinet.net, DIRECT
@@ -26,11 +26,11 @@ DOMAIN-SUFFIX,pa18.com, DIRECT
 DOMAIN-SUFFIX,pingan.com.cn, DIRECT
 DOMAIN-SUFFIX,pingan.com, DIRECT
 DOMAIN-SUFFIX,paic.com.cn, DIRECT
-DOMAIN-SUFFIX,dingww.com, 🍃 Proxy, force-remote-dns
+DOMAIN-SUFFIX,dingww.com, Proxy, force-remote-dns
 DOMAIN-SUFFIX,dingfast.com, DIRECT
 DOMAIN-SUFFIX,qiang.today, DIRECT
-DOMAIN-SUFFIX,nexon.com, 🍃 Proxy
-DOMAIN-SUFFIX,garenanow.com, 🍃 Proxy
+DOMAIN-SUFFIX,nexon.com, Proxy
+DOMAIN-SUFFIX,garenanow.com, Proxy
 AND, ((DOMAIN, raw.githubusercontent.com), (USER-AGENT, Surge*)), DIRECT, notification-text=“规则集更新”
 
 [SSID Setting]
