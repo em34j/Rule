@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,kuaichedao.co, Proxy
 DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
 DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
 DOMAIN,hiradiow-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
-DOMAIN-SUFFIX,hinet.net, DIRECT
+# DOMAIN-SUFFIX,hinet.net, DIRECT
 DOMAIN-SUFFIX,znly.co, DIRECT
 DOMAIN-SUFFIX,linksyssmartwifi.com, DIRECT
 DOMAIN-SUFFIX,maicoin.com, DIRECT
