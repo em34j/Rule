@@ -2,11 +2,11 @@
 #!desc=自定義規則
 
 [Rule]
-DOMAIN-SUFFIX,cmoney.tw, 🇺🇸 United States 01 | x3 | VIP1
-DOMAIN-SUFFIX,dcard.tw, 🇺🇸 United States 01 | x3 | VIP1
+DOMAIN-SUFFIX,cmoney.tw, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN-SUFFIX,dcard.tw, 🇹🇼 Taiwan 01 | x1 | Standard
 DOMAIN-SUFFIX,itread01.com, Proxy
 DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxy
-DOMAIN-SUFFIX,sspanel.host, 🇺🇸 United States 01 | x3 | VIP1
+DOMAIN-SUFFIX,sspanel.host, 🇹🇼 Taiwan 01 | x1 | Standard
 DOMAIN-SUFFIX,iphonenews.cc, Proxy
 DOMAIN-SUFFIX,bahamut.com.tw, Proxy
 DOMAIN-SUFFIX,ecimg.tw, Proxy
@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,pchome.com.tw, Proxy
 DOMAIN-SUFFIX,doub.io, Proxy
 DOMAIN-SUFFIX,airspace.com.tw, Proxy
 DOMAIN-SUFFIX,kuaichedao.co, Proxy
-DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
-DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
+DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
 DOMAIN-SUFFIX,hinet.net, DIRECT
 DOMAIN-SUFFIX,znly.co, DIRECT
 DOMAIN-SUFFIX,linksyssmartwifi.com, DIRECT
@@ -28,10 +28,10 @@ DOMAIN-SUFFIX,pa18.com, DIRECT
 DOMAIN-SUFFIX,pingan.com.cn, DIRECT
 DOMAIN-SUFFIX,pingan.com, DIRECT
 DOMAIN-SUFFIX,paic.com.cn, DIRECT
-DOMAIN-SUFFIX,dingww.com, Proxy, force-remote-dns
 DOMAIN-SUFFIX,dingfast.com, DIRECT
 DOMAIN-SUFFIX,qiang.today, DIRECT
 DOMAIN-SUFFIX,dinuxcloud.com, DIRECT
+DOMAIN-SUFFIX,ding.dsmtp.com, DIRECT
 DOMAIN-SUFFIX,nexon.com, Proxy
 DOMAIN-SUFFIX,garenanow.com, Proxy
 AND, ((DOMAIN, raw.githubusercontent.com), (USER-AGENT, Surge*)), DIRECT, notification-text=“规则集更新”
