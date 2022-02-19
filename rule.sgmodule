@@ -2,11 +2,11 @@
 #!desc=自定義規則
 
 [Rule]
-DOMAIN-SUFFIX,cmoney.tw, 🇹🇼 Taiwan 01 | x1 | Standard
-DOMAIN-SUFFIX,dcard.tw, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN-SUFFIX,cmoney.tw, Taiwan - UrlTest
+DOMAIN-SUFFIX,dcard.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,itread01.com, Proxy
 DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxy
-DOMAIN-SUFFIX,sspanel.host, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN-SUFFIX,sspanel.host, Taiwan - UrlTest
 DOMAIN-SUFFIX,iphonenews.cc, Proxy
 DOMAIN-SUFFIX,bahamut.com.tw, Proxy
 DOMAIN-SUFFIX,ecimg.tw, Proxy
@@ -14,9 +14,9 @@ DOMAIN-SUFFIX,pchome.com.tw, Proxy
 DOMAIN-SUFFIX,doub.io, Proxy
 DOMAIN-SUFFIX,airspace.com.tw, Proxy
 DOMAIN-SUFFIX,kuaichedao.co, Proxy
-DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
-DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
-DOMAIN,hiradiow-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN,hichannel.hinet.net, Taiwan - UrlTest
+DOMAIN,radio-hichannel.cdn.hinet.net, Taiwan - UrlTest
+DOMAIN,hiradiow-hichannel.cdn.hinet.net, Taiwan - UrlTest
 DOMAIN-SUFFIX,hinet.net, DIRECT
 DOMAIN-SUFFIX,znly.co, DIRECT
 DOMAIN-SUFFIX,linksyssmartwifi.com, DIRECT
@@ -36,7 +36,3 @@ DOMAIN-SUFFIX,dinuxcloud.com, DIRECT
 DOMAIN-SUFFIX,ding.dsmtp.com, DIRECT
 DOMAIN-SUFFIX,nexon.com, Proxy
 DOMAIN-SUFFIX,garenanow.com, Proxy
-
-[SSID Setting]
-"HOMENET" suspend=true
-"meeting601" suspend=true
