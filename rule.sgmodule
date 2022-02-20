@@ -4,16 +4,16 @@
 [Rule]
 DOMAIN-SUFFIX,cmoney.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,dcard.tw, Taiwan - UrlTest
-DOMAIN-SUFFIX,itread01.com, Proxy
-DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxy
+DOMAIN-SUFFIX,itread01.com, Proxies
+DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, Proxies
 DOMAIN-SUFFIX,sspanel.host, Taiwan - UrlTest
-DOMAIN-SUFFIX,iphonenews.cc, Proxy
-DOMAIN-SUFFIX,bahamut.com.tw, Proxy
-DOMAIN-SUFFIX,ecimg.tw, Proxy
-DOMAIN-SUFFIX,pchome.com.tw, Proxy
-DOMAIN-SUFFIX,doub.io, Proxy
-DOMAIN-SUFFIX,airspace.com.tw, Proxy
-DOMAIN-SUFFIX,kuaichedao.co, Proxy
+DOMAIN-SUFFIX,iphonenews.cc, Proxies
+DOMAIN-SUFFIX,bahamut.com.tw, Proxies
+DOMAIN-SUFFIX,ecimg.tw, Proxies
+DOMAIN-SUFFIX,pchome.com.tw, Proxies
+DOMAIN-SUFFIX,doub.io, Proxies
+DOMAIN-SUFFIX,airspace.com.tw, Proxies
+DOMAIN-SUFFIX,kuaichedao.co, Proxies
 DOMAIN,hichannel.hinet.net, Taiwan - UrlTest
 DOMAIN,radio-hichannel.cdn.hinet.net, Taiwan - UrlTest
 DOMAIN,hiradio-hichannel.cdn.hinet.net, Taiwan - UrlTest
@@ -36,5 +36,5 @@ DOMAIN-SUFFIX,dingfast.com, DIRECT
 DOMAIN-SUFFIX,qiang.today, DIRECT
 DOMAIN-SUFFIX,dinuxcloud.com, DIRECT
 DOMAIN-SUFFIX,ding.dsmtp.com, DIRECT
-DOMAIN-SUFFIX,nexon.com, Proxy
-DOMAIN-SUFFIX,garenanow.com, Proxy
+DOMAIN-SUFFIX,nexon.com, Proxies
+DOMAIN-SUFFIX,garenanow.com, Proxies
