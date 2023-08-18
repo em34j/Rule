@@ -2,6 +2,7 @@
 #!desc=自定義規則
 
 [Rule]
+IP-CIDR,10.10.10.0/24,DEVICE:MBP
 DOMAIN-SUFFIX,cmoney.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,dcard.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,itread01.com, Proxy
