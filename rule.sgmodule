@@ -4,6 +4,7 @@
 [Rule]
 IP-CIDR,10.10.10.0/24,🇹🇼 Wireguard,no-resolve
 IP-CIDR,192.168.0.0/24,🇹🇼 Wireguard,no-resolve
+DOMAIN,nts.dinuxcloud.com,🇹🇼 Wireguard
 DOMAIN-SUFFIX,cmoney.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,dcard.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,itread01.com, Proxy
