@@ -2,6 +2,7 @@
 #!desc=自定義規則
 
 [Rule]
+AND,((IP-CIDR,192.168.0.200/32), (DEST-PORT,32400)),REJECT
 IP-CIDR,10.10.10.0/24,🇹🇼 Wireguard,no-resolve
 IP-CIDR,192.168.0.0/24,🇹🇼 Wireguard,no-resolve
 DOMAIN,nts.dinuxcloud.com,🇹🇼 Wireguard
