@@ -4,7 +4,7 @@
 [Rule]
 IP-CIDR,10.10.10.0/24,🇹🇼 Wireguard,no-resolve
 IP-CIDR,192.168.0.0/24,🇹🇼 Wireguard,no-resolve
-#DOMAIN,nts.dinuxcloud.com,🇹🇼 Wireguard
+DOMAIN,nts.dinuxcloud.com,🇹🇼 Wireguard
 DOMAIN-SUFFIX,cmoney.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,dcard.tw, Taiwan - UrlTest
 DOMAIN-SUFFIX,itread01.com, Proxy
@@ -44,5 +44,5 @@ DOMAIN-SUFFIX,nexon.com, Proxy
 DOMAIN-SUFFIX,garenanow.com, Proxy
 
 [Host]
-nts.dinuxcloud.com = 10.10.10.196
+nts.dinuxcloud.com = 192.168.0.200
 *.gov.tw = server:168.95.192.1
